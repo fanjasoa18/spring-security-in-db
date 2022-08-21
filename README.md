@@ -1,2 +1,2 @@
 # spring security
-trying to store UerDetails(username,password,role) in database, not in memory
+trying to store UserDetails(username,password,role) in database, not in memory
